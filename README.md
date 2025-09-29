@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Neal-Kotval
 - 👀 I’m interested in machine learning, web development, and systems architecture
 - 🌱 I’m currently learning game development
-- 💞️ I’m looking to collaborate on anything
+- 😡 I’m looking to collaborate on anything
 - 📫 How to reach me neal.kotval@gmail.com
 
 <!---
